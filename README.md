@@ -1,4 +1,4 @@
-![Jaagrav Seal's-cover](https://user-images.githubusercontent.com/52719271/113082778-b0db2180-91f8-11eb-81de-2542f6c20234.png)
+![Dhriti's-cover](./cover_image.png)
 
 ## 🧔 About Me
 
