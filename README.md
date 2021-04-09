@@ -1,6 +1,6 @@
 ![Dhriti's-cover](./cover_image.png)
 
-## 🧔 About Me
+## 👩 About Me
 
 - 🔭 I’m currently working on [CSS Art Gallery](https://github.com/Dhriti-Roy/CSS Art Gallery)
 
