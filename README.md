@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [CSS Art Gallery](https://github.com/Dhriti-Roy/CSS Art Gallery)
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **React** and **Python**
 
 - 👯 I’m looking to collaborate on **EddieHub**
 
