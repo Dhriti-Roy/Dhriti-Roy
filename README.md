@@ -2,13 +2,15 @@
 
 ## 👩 About Me
 
+- 👋 Hey there, I am **Dhriti Roy** from **EddieHub**
+
 - 🔭 I’m currently working on [LifeMEDeasy](avinashkranjan/lifeMEDeasy)
 
 - 🤓 I'm [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
 
-- 🌱 I’m currently learning **React** and **Python**
+- 👯 My Tech communities - **EddieHub** , **CodeForCause** , **EquiCode** , **Bash Women Community**
 
-- 👯 My community - **EddieHub**
+- 🌱 I’m currently learning **React** and **Python**
 
 - 📫 Contact me **[here](dhritiroy08@gmail.com)**
 
