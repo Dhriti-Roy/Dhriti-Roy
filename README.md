@@ -8,7 +8,7 @@
 
 - 🤓 I'm [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
 
-- 👯  Our Tech communities - **EddieHub** , **CodeForCause** , **EquiCode** , **Bash Women Community**.
+- 👯  My community - **EddieHub** 
 
 - 🌱 I’m currently learning **React** and **Python**
 
