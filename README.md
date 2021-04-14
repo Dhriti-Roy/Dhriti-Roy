@@ -2,11 +2,13 @@
 
 ## 👩 About Me
 
-- 🔭 I’m currently working on [CSS Art Gallery](https://github.com/Dhriti-Roy/CSS Art Gallery)
+- 🔭 I’m currently working on [LifeMEDeasy](avinashkranjan/lifeMEDeasy)
+
+- 🤓 I'm [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
 
 - 🌱 I’m currently learning **React** and **Python**
 
-- 👯 I’m looking to collaborate on **EddieHub**
+- 👯 My community - **EddieHub**
 
 - 📫 Contact me **[here](dhritiroy08@gmail.com)**
 
