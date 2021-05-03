@@ -1,6 +1,6 @@
 ![Dhriti's-cover](./cover_image.png)
 
-## 👩🏽   About Me
+## 👩  About Me
 
 - 👋 Hey there, I am **Dhriti Roy** from **EddieHub**
 
