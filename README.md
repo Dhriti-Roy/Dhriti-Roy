@@ -14,7 +14,7 @@
 
 - 📫 Contact me **[here](dhritiroy08@gmail.com)**
 
-## ✍ My Work-
+## ✍ My Work--
 
 [![Dhriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhriti-Roy&show_icons=true&theme=dark)](https://github.com/Dhriti-Roy)
 
