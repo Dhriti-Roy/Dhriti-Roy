@@ -4,7 +4,7 @@
 
 - 👋 Hey there, I am **Dhriti Roy** from **EddieHub**
 
-- 🔭 I’m currently working on [LifeMEDeasy]()
+- 🔭 I’m currently working on [Space-Invaders-Pygame](Dhriti-Roy/Space-Invaders-Pygame)
 
 - 🤓 I'm [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
 
