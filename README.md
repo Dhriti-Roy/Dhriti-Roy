@@ -4,7 +4,7 @@
 
 - 👋 Hey there, I am **Dhriti Roy** from **EddieHub**
 
-- 🔭 I’m currently working on [LifeMEDeasy](avinashkranjan/lifeMEDeasy)
+- 🔭 I’m currently working on [LifeMEDeasy]()
 
 - 🤓 I'm [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
 
