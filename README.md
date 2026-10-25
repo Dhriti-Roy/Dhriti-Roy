@@ -1,14 +1,12 @@
 ## 👩  About Me =>>
 
-- 👋 Hey there, I am **Dhriti Roy** from **EddieHub**
+- 👋 Hey there, I am **Dhriti Roy** from **HCL Tech**
 
-- 🔭 I’m currently working on [Space-Invaders-Pygame](Dhriti-Roy/Space-Invaders-Pygame)
-
-- 🤓 I'm [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
+- 🤓 I was [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile) during my College
 
 - 👯  My community - **EddieHub** 
 
-- 🌱 I’m currently learning **React** and **Python**
+- 🌱 I’m currently working on **React** and **Python**
 
 - 📫 Contact me **[here](dhritiroy08@gmail.com)**
 
